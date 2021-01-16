@@ -1,35 +1,7 @@
 *Comentario do css
 */
 
-.center {
-    text-align: center;
-}
 
-.justify {
-    text-align: justify;
-}
-
-.container {
-    display: flex;
-    flex-flow: row;
-    justify-content: center;
-    align-items: center;
-}
-#manu li {
-    display: inline;
-    padding: 30px;
- 
-
-}
-#manu li a {
-    text-decoration: none;
-    color: black;
-    font-size: 20px;
-
-}
-#manu li a:hover {
-        color: aqua;
-}
 .p-30 {
     padding: 30px;
 }
